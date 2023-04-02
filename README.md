@@ -9,3 +9,6 @@ if you want to download, follow to this link(ONLY ANDROID):
 * react-native
 * styled-components
 * react-native-paper
+
+it looks like:
+![image](https://user-images.githubusercontent.com/90285902/229358517-e3c4819b-186e-4be7-be49-c76f7e076f53.png)
